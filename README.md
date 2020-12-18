@@ -1,5 +1,18 @@
 # Blog
 
+## Running LOcally
+
+Install dependencies:
+
+npm install
+
+Run Server:
+
+npm start
+
+To add a post, create markdown file in `content/blog`
+
+
 ## Level of Users:
 
 ### Admin
