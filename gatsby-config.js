@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     // edit below
     title: `The Developer Times`,
-    author: `Gatsby`,
+    author: `Me`,
     description: `Best and Most Worded Technical Articles For Developers`,
     siteUrl: `https://blogzone.netlify.app/`,
     social: {
