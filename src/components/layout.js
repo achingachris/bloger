@@ -67,7 +67,7 @@ class Layout extends React.Component {
           <main>{children}</main>
         </div>
         <Footer>
-          © {new Date().getFullYear()}
+          Jamila Suleiman &copy; {new Date().getFullYear()}
           {` `}
         </Footer>
       </Wrapper>
